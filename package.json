@@ -1,5 +1,5 @@
 {
-  "name": "rfqj-cli",
+  "name": "rfqj",
   "version": "1.0.2",
   "description": "Cli for hm-tec",
   "main": "index.js",
