@@ -1,0 +1,31 @@
+{
+  "name": "rfqj-cli",
+  "version": "1.0.2",
+  "description": "Cli for hm-tec",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaiWang2048/rfqj-cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "wangkai2048",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaiWang2048/rfqj-cli/issues"
+  },
+  "homepage": "https://github.com/KaiWang2048/rfqj-cli#readme",
+  "bin": {
+    "rfqj": "index.js"
+  },
+  "dependencies": {
+    "commander": "^3.0.1",
+    "download-git-repo": "^2.0.0",
+    "inquirer": "^7.0.0",
+    "ora": "^3.4.0"
+  }
+}
